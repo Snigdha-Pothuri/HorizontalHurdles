@@ -26,8 +26,3 @@ game.play();
 
 }
 
-function draw() {
-  background(0,65,755);  
-
-  drawSprites();
-}
